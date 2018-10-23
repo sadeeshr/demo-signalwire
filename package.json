@@ -1,0 +1,25 @@
+{
+  "name": "demo-signalwire",
+  "version": "1.0.0",
+  "description": ". .  -",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "signalwire": "^1.0.0-rc.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r dotenv/config server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadeeshr/demo-signalwire.git"
+  },
+  "author": "Sadeesh Radhakrishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadeeshr/demo-signalwire/issues"
+  },
+  "homepage": "https://github.com/sadeeshr/demo-signalwire#readme"
+}
